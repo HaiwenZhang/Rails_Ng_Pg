@@ -24,6 +24,10 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'devise'
 gem 'bower-rails'
+gem 'faker'
+gem 'bullet'
+gem 'better_errors'
+gem 'rails_best_practices'
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
